@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.8.28+commit.7893614a"
 	},
 	"language": "Solidity",
 	"output": {
@@ -59,7 +59,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"lesson2/lesson2.sol": "Counter"
+			"remix1/Solidity/lesson2/lesson2.sol": "Counter"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -73,7 +73,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"lesson2/lesson2.sol": {
+		"remix1/Solidity/lesson2/lesson2.sol": {
 			"keccak256": "0x21d3ea8adf39d8108413270b158c1d2e9a9b84b09c524c01997e62e71c5aa994",
 			"license": "MIT",
 			"urls": [
